@@ -25,5 +25,12 @@ body ul {
   padding: 1.5rem 0;
   margin: 0 auto;
 }
+.header-brand {
+  color: #fff;
+  font-size: 3rem;
+}
+.header-navbar ul {
+  height: 100%;
+}
 
 /*# sourceMappingURL=styles.css.map */
