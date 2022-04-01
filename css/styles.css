@@ -35,5 +35,28 @@ body ul {
   align-items: center;
   justify-content: center;
 }
+.header-navbar li {
+  margin: 0 1rem;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+.header-navbar li .active {
+  color: #20c977;
+}
+.header-navbar li a:hover {
+  color: #20c977;
+}
+.header-social-media ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.header-social-media ul li {
+  margin: 0 1rem;
+}
+.header-social-media ul li a:hover {
+  color: #fff;
+}
 
 /*# sourceMappingURL=styles.css.map */
