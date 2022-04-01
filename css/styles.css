@@ -14,5 +14,8 @@ body a {
   text-decoration: none;
   transition: 0.4s;
 }
+body ul {
+  list-style: none;
+}
 
 /*# sourceMappingURL=styles.css.map */
