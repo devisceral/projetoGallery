@@ -1,4 +1,6 @@
 @use 'variables'
+@use 'mixins'
+  
 
 *
   font-family: 'Josefin Sans'
@@ -17,3 +19,9 @@ body
   ul
     list-style: none
 
+
+.header
+  display: flex
+  justify-content: space-between
+  @include mixins.container
+  
